@@ -1,99 +1,124 @@
-# Hi, I'm Nikhil 👋
+<div align="center">
 
-> _Replace the lines below with your real name and a short bio._
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20There!%20I'm%20Nikhil%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-**Full name:** Nikhil (replace with your full name)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Developer;Python+%7C+Django+REST+Framework+%7C+React.js;Building+Fintech+SaaS+%40+RSL+Solutions;500%2B+users+in+production" alt="Typing SVG" />
+</a>
 
-**Bio:** Aspiring Data Analyst | Learning SQL • Excel • Power BI • Python
-
-**Location:** (Your city, Country) — optional
+</div>
 
 ---
 
 ### ⚡️ About Me
+Software developer with 1+ year of experience building and shipping a live multi-tenant fintech SaaS platform — handling real-time trade signals, automated billing, and 500+ users — end to end, from API design to CI/CD deployment. Also experienced with Java, Spring Boot, and Hibernate from a Java Full Stack background.
 
-I build data dashboards and analyses to turn messy data into actionable insights. I’m currently learning Machine Learning and building weekly projects to level up my portfolio.
+- 🔭 Currently building: **Verified Trade Advisory Platform** — a multi-tenant fintech SaaS
+- 🌱 Currently exploring: scalable system design for SaaS architecture
+- 📍 Based in: Pune, India
+- 📫 Reach me: nikhilchavan063@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack
 
-- SQL
-- Excel
-- Power BI
-- Python
-- Pandas
-- NumPy
-- Git
-- GitHub
+<div align="center">
 
-> Feel free to edit this list to match your actual skills.
+**Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**DevOps & Testing**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+**Also know**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
 
 ---
 
 ### 🚀 Featured Projects
 
-Here are a few projects — replace these placeholders with your real projects (name, short description, and link).
+<table>
+<tr>
+<td width="50%" valign="top">
 
-1. **E-Commerce Sales Analysis (SQL)** — SQL queries + dashboards to analyze sales trends. ([repo link](https://github.com/yourname/your-repo))
-2. **HR Analytics Dashboard (Power BI)** — Employee attrition and KPI dashboards. ([repo link](https://github.com/yourname/your-repo))
-3. **Uber Trip Analysis (Python)** — Data cleaning, EDA, and visualizations. ([repo link](https://github.com/yourname/your-repo))
+**💼 Verified Trade Advisory Platform**
+Fintech SaaS
 
-Add up to 3–6 projects with: Problem Statement, Dataset, Approach, Key Insights, Screenshots, and Tech Stack.
+Multi-tenant platform connecting investors with SEBI-registered advisors. OTP + JWT auth, real-time market data via Angel One SmartAPI, GST-compliant Razorpay billing, Celery + Redis automation, Django Channels WebSockets.
+
+`Django` `DRF` `React` `PostgreSQL` `Celery` `Redis`
+
+*Private repo — RSL Solutions*
+
+</td>
+<td width="50%" valign="top">
+
+**🔜 Your Next Project**
+
+Replace with a public repo — description, key features, and tech stack.
+
+`Tech` `Stack` `Here`
+
+[repo link](https://github.com/Nikhil7353/your-repo)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nikhil7353&show_icons=true&theme=radical" alt="Nikhil's GitHub stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil7353&layout=compact&theme=radical" alt="Top languages" />
-</p>
+<div align="center">
 
-<br clear="both" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil7353&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nikhil's GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil7353&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
 
-> If you prefer different themes, change the `theme=` parameter on the cards above.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil7353&theme=radical&hide_border=true" alt="GitHub Streak" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil7353&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
 
-### 🔥 Streak & Contribution Graph
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil7353&theme=radical)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Nikhil7353&theme=react-dark)
+</div>
 
 ---
 
-### 🌐 Social Links
+### 🐍 Contribution Snake
 
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)
-- Portfolio: https://your-portfolio.example
-- Email: yourname@example.com
-- X / Twitter: @yourhandle
+<div align="center">
+<img src="https://raw.githubusercontent.com/Nikhil7353/Nikhil7353/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
----
-
-### 📫 Contact
-
-📧 Email: yourname@example.com
+> ⚠️ The snake animation needs a one-time GitHub Actions setup — see note below.
 
 ---
 
-### 🎯 Currently Learning
+### 🌐 Connect With Me
 
-- Machine Learning
-- Advanced SQL
+<div align="center">
 
-### 💬 Ask me about
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilchavhan7)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilchavan063@gmail.com)
 
-SQL, Excel, Power BI, Data Visualization
-
-### ⚡ Fun Fact
-
-I love turning messy data into dashboards.
+</div>
 
 ---
 
-If you'd like, I can:
-- Auto-select your best 3–6 public repos as featured projects and fill in short descriptions.
-- Update any of the placeholder fields with real information if you provide it.
-- Add or tweak GitHub stats cards or themes.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+</div>
