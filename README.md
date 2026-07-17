@@ -13,8 +13,8 @@
 ### ⚡️ About Me
 Software developer with 1+ year of experience building and shipping a live multi-tenant fintech SaaS platform — handling real-time trade signals, automated billing, and 500+ users — end to end, from API design to CI/CD deployment. Also experienced with Java, Spring Boot, and Hibernate from a Java Full Stack background.
 
-- 🔭 Currently building: **Verified Trade Advisory Platform** — a multi-tenant fintech SaaS
-- 🌱 Currently exploring: scalable system design for SaaS architecture
+- 🔭 Currently building: **Verified Trade Advisory Platform** (day job) and **UnifiedTeamOS**, a personal collaboration platform
+- 🌱 Currently exploring: FastAPI and scalable system design for SaaS architecture
 - 📍 Based in: Pune, India
 - 📫 Reach me: nikhilchavan063@gmail.com
 
@@ -28,6 +28,7 @@ Software developer with 1+ year of experience building and shipping a live multi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -58,7 +59,7 @@ Software developer with 1+ year of experience building and shipping a live multi
 <td width="50%" valign="top">
 
 **💼 Verified Trade Advisory Platform**
-Fintech SaaS
+Fintech SaaS — *Currently building*
 
 Multi-tenant platform connecting investors with SEBI-registered advisors. OTP + JWT auth, real-time market data via Angel One SmartAPI, GST-compliant Razorpay billing, Celery + Redis automation, Django Channels WebSockets.
 
@@ -69,13 +70,14 @@ Multi-tenant platform connecting investors with SEBI-registered advisors. OTP + 
 </td>
 <td width="50%" valign="top">
 
-**🔜 Your Next Project**
+**🧩 UnifiedTeamOS**
+Personal Project — *v0.1.0, actively building*
 
-Replace with a public repo — description, key features, and tech stack.
+A unified team collaboration platform combining real-time chat, task management, document collaboration, video/voice calls, a shared whiteboard, and email integration in one workspace.
 
-`Tech` `Stack` `Here`
+`FastAPI` `React` `Redux` `PostgreSQL` `WebSocket` `JWT`
 
-[repo link](https://github.com/Nikhil7353/your-repo)
+*Private repo — chat & tasks live, video calls and email sync in progress*
 
 </td>
 </tr>
