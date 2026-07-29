@@ -89,8 +89,8 @@ A unified team collaboration platform combining real-time chat, task management,
 
 <div align="center">
 
-<img src="https://github-readme-stats-two-lovat-38.vercel.app/api?username=Nikhil7353&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nikhil's GitHub stats" height="165"/>
-<img src="https://github-readme-stats-two-lovat-38.vercel.app/api/top-langs/?username=Nikhil7353&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats-two-lovat-38.vercel.app/api?username=Nikhil7353&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Nikhil's GitHub stats" height="165"/>
+<img src="https://github-readme-stats-two-lovat-38.vercel.app/api/top-langs/?username=Nikhil7353&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=Nikhil7353&theme=radical&hide_border=true" alt="GitHub Streak" />
 
