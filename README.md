@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20There!%20I'm%20Nikhil%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20Fintech%20SaaS%20Builder&descSize=18&descAlignY=58&descColor=d0c8ff" width="100%"/>
+<img src="./banner.png" alt="Nikhil Chavhan — Software Developer | Fintech SaaS Builder" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/Nikhil7353">
