@@ -39,16 +39,32 @@
 
 Software Developer with **1+ years** of experience engineering a live, multi-tenant fintech SaaS platform — handling real-time trade signals, automated GST billing, and **500+ users in production** — end to end, from API design to CI/CD deployment.
 
-<div align="center">
-
-| | |
-|:---:|:---|
-| ![building](https://img.shields.io/badge/🔭_Currently_Building-Fintech_SaaS_%26_UnifiedTeamOS-667eea?style=flat-square&labelColor=1a1a2e) | Verified Trade Advisory Platform & **UnifiedTeamOS** Collaboration Platform |
-| ![specialties](https://img.shields.io/badge/⚡_Specialties-Multi--Tenant_SaaS-764ba2?style=flat-square&labelColor=1a1a2e) | WebSockets, Celery/Redis async queues, Razorpay payment gateways |
-| ![exploring](https://img.shields.io/badge/🌱_Exploring-FastAPI_%26_System_Design-10b981?style=flat-square&labelColor=1a1a2e) | Advanced FastAPI microservices & high-scale SaaS architecture |
-| ![location](https://img.shields.io/badge/📍_Based_In-Pune,_India-f59e0b?style=flat-square&labelColor=1a1a2e) | nikhilchavan063@gmail.com |
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=django&theme=dark" width="36" title="Currently Building with Django"/>
+    </td>
+    <td><b>Currently Building:</b> Verified Trade Advisory Platform (Fintech SaaS) &amp; <b>UnifiedTeamOS</b> — Collaboration Platform</td>
+  </tr>
+  <tr>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="36" title="Specialties — Real-time & Async"/>
+    </td>
+    <td><b>Specialties:</b> Multi-tenant SaaS architecture, WebSockets, Celery/Redis async queues, Razorpay payment gateways</td>
+  </tr>
+  <tr>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="36" title="Currently Exploring FastAPI"/>
+    </td>
+    <td><b>Currently Exploring:</b> Advanced FastAPI microservices &amp; high-scale system design for SaaS</td>
+  </tr>
+  <tr>
+    <td align="center" width="48">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" title="Based in Pune, India"/>
+    </td>
+    <td><b>Based in:</b> Pune, India &nbsp;|&nbsp; <a href="mailto:nikhilchavan063@gmail.com">nikhilchavan063@gmail.com</a></td>
+  </tr>
+</table>
 
 <br/>
 
