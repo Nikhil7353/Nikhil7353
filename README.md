@@ -39,24 +39,16 @@
 
 Software Developer with **1+ years** of experience engineering a live, multi-tenant fintech SaaS platform — handling real-time trade signals, automated GST billing, and **500+ users in production** — end to end, from API design to CI/CD deployment.
 
-<table>
-  <tr>
-    <td>🔭</td>
-    <td><b>Currently Building:</b> Verified Trade Advisory Platform (Fintech SaaS) &amp; <b>UnifiedTeamOS</b> (Collaboration Platform)</td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><b>Specialties:</b> Multi-tenant SaaS architecture, WebSockets, Celery/Redis async queues, Razorpay payment gateways</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td><b>Currently Exploring:</b> Advanced FastAPI microservices &amp; high-scale system design</td>
-  </tr>
-  <tr>
-    <td>📍</td>
-    <td><b>Based in:</b> Pune, India &nbsp;|&nbsp; 📫 nikhilchavan063@gmail.com</td>
-  </tr>
-</table>
+<div align="center">
+
+| | |
+|:---:|:---|
+| ![building](https://img.shields.io/badge/🔭_Currently_Building-Fintech_SaaS_%26_UnifiedTeamOS-667eea?style=flat-square&labelColor=1a1a2e) | Verified Trade Advisory Platform & **UnifiedTeamOS** Collaboration Platform |
+| ![specialties](https://img.shields.io/badge/⚡_Specialties-Multi--Tenant_SaaS-764ba2?style=flat-square&labelColor=1a1a2e) | WebSockets, Celery/Redis async queues, Razorpay payment gateways |
+| ![exploring](https://img.shields.io/badge/🌱_Exploring-FastAPI_%26_System_Design-10b981?style=flat-square&labelColor=1a1a2e) | Advanced FastAPI microservices & high-scale SaaS architecture |
+| ![location](https://img.shields.io/badge/📍_Based_In-Pune,_India-f59e0b?style=flat-square&labelColor=1a1a2e) | nikhilchavan063@gmail.com |
+
+</div>
 
 <br/>
 
@@ -74,7 +66,7 @@ Software Developer with **1+ years** of experience engineering a live, multi-ten
 
 <br/><br/>
 
-<!-- CATEGORIZED ICON TABLE with large devicons + labels -->
+<!-- CATEGORIZED BREAKDOWN — One compact SkillIcons strip per category -->
 <table>
   <thead>
     <tr>
@@ -86,51 +78,23 @@ Software Developer with **1+ years** of experience engineering a live, multi-ten
   </thead>
   <tbody>
     <tr>
-      <td align="center">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python"/><br/><sub><b>Python</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" title="Django"/><br/><sub><b>Django</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" title="FastAPI"/><br/><sub><b>FastAPI</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" title="Java"/><br/><sub><b>Java</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" title="Spring Boot"/><br/><sub><b>Spring Boot</b></sub>
+      <td align="center"><br/>
+        <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring&theme=dark&perline=5" />
+        <br/><sub>Python &nbsp;·&nbsp; Django &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring</sub><br/>
       </td>
-      <td align="center">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" title="React"/><br/><sub><b>React</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" title="TypeScript"/><br/><sub><b>TypeScript</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript"/><br/><sub><b>JavaScript</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" title="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48" title="Redux"/><br/><sub><b>Redux</b></sub>
+      <td align="center"><br/>
+        <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,redux&theme=dark&perline=5" />
+        <br/><sub>React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; JS &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; Redux</sub><br/>
       </td>
-      <td align="center">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" title="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" title="MySQL"/><br/><sub><b>MySQL</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" title="Redis"/><br/><sub><b>Redis</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="48" title="Hibernate"/><br/><sub><b>Hibernate</b></sub>
+      <td align="center"><br/>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&perline=3" />
+        <br/><sub>PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Redis</sub><br/>
+        <img src="https://skillicons.dev/icons?i=hibernate&theme=dark&perline=1" width="45"/>
+        <br/><sub>Hibernate</sub><br/>
       </td>
-      <td align="center">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" title="Docker"/><br/><sub><b>Docker</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" title="GitHub Actions"/><br/><sub><b>GH Actions</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" title="Git"/><br/><sub><b>Git</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" title="Linux"/><br/><sub><b>Linux</b></sub>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=pytest&theme=dark" width="48" title="Pytest"/><br/><sub><b>Pytest</b></sub>
+      <td align="center"><br/>
+        <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,pytest&theme=dark&perline=5" />
+        <br/><sub>Docker &nbsp;·&nbsp; Actions &nbsp;·&nbsp; Git &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Pytest</sub><br/>
       </td>
     </tr>
   </tbody>
@@ -209,9 +173,9 @@ All-in-one team collaboration workspace — one platform to rule them all.
 
 <div align="center">
 
-<img src="https://github-readme-stats-two-lovat-38.vercel.app/api?username=Nikhil7353&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420" height="180" alt="Nikhil's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil7353&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420" height="180" alt="Nikhil's GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-two-lovat-38.vercel.app/api/top-langs/?username=Nikhil7353&layout=compact&theme=radical&hide_border=true&card_width=340&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil7353&layout=compact&theme=radical&hide_border=true&card_width=340&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
