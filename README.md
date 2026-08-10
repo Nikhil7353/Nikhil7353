@@ -103,10 +103,8 @@ Software Developer with **1+ years** of experience engineering a live, multi-ten
         <br/><sub>React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; JS &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; Redux</sub><br/>
       </td>
       <td align="center"><br/>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&perline=3" />
-        <br/><sub>PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Redis</sub><br/>
-        <img src="https://skillicons.dev/icons?i=hibernate&theme=dark&perline=1" width="45"/>
-        <br/><sub>Hibernate</sub><br/>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,hibernate&theme=dark&perline=4" />
+        <br/><sub>PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Hibernate</sub><br/>
       </td>
       <td align="center"><br/>
         <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,pytest&theme=dark&perline=5" />
