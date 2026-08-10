@@ -77,7 +77,7 @@ Software Developer with **1+ years** of experience engineering a live, multi-ten
 
 <!-- PRIMARY ICON GRID — Large, colored, dark-theme SkillIcons -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring,react,ts,js,tailwind,redux,postgres,mysql,redis,docker,githubactions,git,linux,pytest,vscode,postman&theme=dark&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring,react,ts,js,tailwind,redux,postgres,mysql,redis,docker,githubactions,git,linux,jest,vscode,postman&theme=dark&perline=10" alt="Tech Stack" />
 </a>
 
 <br/><br/>
@@ -96,19 +96,19 @@ Software Developer with **1+ years** of experience engineering a live, multi-ten
     <tr>
       <td align="center"><br/>
         <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring&theme=dark&perline=5" />
-        <br/><sub>Python &nbsp;·&nbsp; Django &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring</sub><br/>
+        <br/><sub>Python · Django · FastAPI · Java · Spring</sub><br/>
       </td>
       <td align="center"><br/>
         <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,redux&theme=dark&perline=5" />
-        <br/><sub>React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; JS &nbsp;·&nbsp; Tailwind &nbsp;·&nbsp; Redux</sub><br/>
+        <br/><sub>React · TS · JS · Tailwind · Redux</sub><br/>
       </td>
       <td align="center"><br/>
         <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,hibernate&theme=dark&perline=4" />
-        <br/><sub>PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Hibernate</sub><br/>
+        <br/><sub>PostgreSQL · MySQL · Redis · Hibernate</sub><br/>
       </td>
       <td align="center"><br/>
-        <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,pytest&theme=dark&perline=5" />
-        <br/><sub>Docker &nbsp;·&nbsp; Actions &nbsp;·&nbsp; Git &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Pytest</sub><br/>
+        <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,jest&theme=dark&perline=5" />
+        <br/><sub>Docker · Actions · Git · Linux · Jest</sub><br/>
       </td>
     </tr>
   </tbody>
