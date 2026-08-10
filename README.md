@@ -1,79 +1,147 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20There!%20I'm%20Nikhil%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20There!%20I'm%20Nikhil%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%7C%20Fintech%20SaaS%20Builder&descSize=18&descAlignY=58&descColor=d0c8ff" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/Nikhil7353">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Software+Developer;Python+%7C+Django+REST+Framework+%7C+FastAPI;Building+Fintech+SaaS+%40+RSL+Solutions;Architecting+Scalable+Multi-Tenant+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=Software+Developer+%F0%9F%9A%80;Python+%7C+Django+REST+%7C+FastAPI+%7C+React;Building+Fintech+SaaS+%40+RSL+Solutions;500%2B+Users+In+Production+%F0%9F%8C%9F;Architecting+Scalable+Multi-Tenant+Systems" alt="Typing SVG" />
 </a>
 
+<br/>
+
+<!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/nikhilchavhan7">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
   <a href="mailto:nikhilchavan063@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
   <a href="https://nikhil7353.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<!-- Visitor Count -->
+<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhil7353&color=667eea&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nikhil7353&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 </div>
 
----
+<br/>
 
-### ⚡️ About Me
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header" width="100%"/>
 
-Software Developer with 1+ years of experience engineering live, multi-tenant fintech SaaS platforms. Specializing in high-throughput backend APIs, real-time data streaming, automated subscription billing, and robust cloud deployments.
+### ⚡ About Me
 
-- 🔭 **Currently Building:** Verified Trade Advisory Platform (Fintech SaaS) & **UnifiedTeamOS** (Collaboration Platform).
-- ⚡ **Specialties:** Multi-tenant SaaS architecture, WebSockets, async task queues (Celery/Redis), and payment gateways.
-- 🌱 **Currently Exploring:** Advanced FastAPI microservices & high-scale system design.
-- 📍 **Based in:** Pune, India.
+Software Developer with **1+ years** of experience engineering a live, multi-tenant fintech SaaS platform — handling real-time trade signals, automated GST billing, and **500+ users in production** — end to end, from API design to CI/CD deployment.
 
----
+<table>
+  <tr>
+    <td>🔭</td>
+    <td><b>Currently Building:</b> Verified Trade Advisory Platform (Fintech SaaS) &amp; <b>UnifiedTeamOS</b> (Collaboration Platform)</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><b>Specialties:</b> Multi-tenant SaaS architecture, WebSockets, Celery/Redis async queues, Razorpay payment gateways</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><b>Currently Exploring:</b> Advanced FastAPI microservices &amp; high-scale system design</td>
+  </tr>
+  <tr>
+    <td>📍</td>
+    <td><b>Based in:</b> Pune, India &nbsp;|&nbsp; 📫 nikhilchavan063@gmail.com</td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack & Ecosystem
+<br/>
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header" width="100%"/>
+
+### 🛠️ Tech Stack &amp; Skills Matrix
 
 <div align="center">
 
-#### Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<!-- PRIMARY ICON GRID — Large, colored, dark-theme SkillIcons -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring,react,ts,js,tailwind,redux,postgres,mysql,redis,docker,githubactions,git,linux,pytest,vscode,postman&theme=dark&perline=10" alt="Tech Stack" />
+</a>
 
-#### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<br/><br/>
 
-#### Database, Caching & Queues
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-#### DevOps & Testing
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+<!-- CATEGORIZED ICON TABLE with large devicons + labels -->
+<table>
+  <thead>
+    <tr>
+      <th align="center">🐍 Backend &amp; APIs</th>
+      <th align="center">⚛️ Frontend &amp; UI</th>
+      <th align="center">🗄️ Data &amp; Queues</th>
+      <th align="center">🐳 DevOps &amp; Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" title="Python"/><br/><sub><b>Python</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" title="Django"/><br/><sub><b>Django</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" title="FastAPI"/><br/><sub><b>FastAPI</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" title="Java"/><br/><sub><b>Java</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" title="Spring Boot"/><br/><sub><b>Spring Boot</b></sub>
+      </td>
+      <td align="center">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" title="React"/><br/><sub><b>React</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" title="TypeScript"/><br/><sub><b>TypeScript</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" title="JavaScript"/><br/><sub><b>JavaScript</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" title="Tailwind CSS"/><br/><sub><b>Tailwind</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="48" title="Redux"/><br/><sub><b>Redux</b></sub>
+      </td>
+      <td align="center">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" title="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" title="MySQL"/><br/><sub><b>MySQL</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" title="Redis"/><br/><sub><b>Redis</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=hibernate&theme=dark" width="48" title="Hibernate"/><br/><sub><b>Hibernate</b></sub>
+      </td>
+      <td align="center">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" title="Docker"/><br/><sub><b>Docker</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" title="GitHub Actions"/><br/><sub><b>GH Actions</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" title="Git"/><br/><sub><b>Git</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" title="Linux"/><br/><sub><b>Linux</b></sub>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=pytest&theme=dark" width="48" title="Pytest"/><br/><sub><b>Pytest</b></sub>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header" width="100%"/>
 
 ### 🚀 Featured Projects
 
@@ -81,62 +149,100 @@ Software Developer with 1+ years of experience engineering live, multi-tenant fi
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 💼 Verified Trade Advisory Platform
-`🟢 Production` • `Multi-Tenant Fintech SaaS`
 
-Connects retail investors with SEBI-registered advisory firms. 
-- **Real-Time Market Feeds:** Integrated Angel One SmartAPI for WebSocket live trade signals.
-- **Automated Billing:** GST-compliant Razorpay subscription flow with automated invoices.
-- **Security & Scale:** OTP + JWT auth, Celery background jobs, Django Channels.
+![Status](https://img.shields.io/badge/Status-🟢%20Production-22c55e?style=flat-square)&nbsp;
+![Type](https://img.shields.io/badge/Type-Multi--Tenant%20SaaS-7c3aed?style=flat-square)
 
-`Django` `DRF` `React` `PostgreSQL` `Celery` `Redis` `Razorpay`
+</div>
+
+Connects retail investors with **SEBI-registered** advisory firms — built end-to-end.
+
+- 📡 **Real-Time Signals:** Angel One SmartAPI + Django Channels WebSockets
+- 💳 **Billing Engine:** GST-compliant Razorpay subscriptions + auto invoices
+- 🔐 **Auth & Scale:** OTP + JWT + Celery background jobs + Redis queuing
+- 👥 **Scope:** 500+ active users, multi-advisory firm tenancy
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,postgres,redis,docker&theme=dark" height="32"/>
+</div>
+
+<div align="center"><sub><i>🔒 Private repo — RSL Solutions PVT Ltd</i></sub></div>
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+
 ### 🧩 UnifiedTeamOS
-`⚡ In Active Dev` • `v0.1.0`
 
-All-in-one workspace unifying team communication and project workflows.
-- **Real-time Chat & WebSockets:** Sub-second latency channels & DM messaging.
-- **Workspace Tooling:** Kanban task management, interactive collaborative whiteboard.
-- **Upcoming:** WebRTC audio/video calls & automated email sync.
+![Status](https://img.shields.io/badge/Status-⚡%20Active%20Dev-f59e0b?style=flat-square)&nbsp;
+![Version](https://img.shields.io/badge/Version-v0.1.0-764ba2?style=flat-square)
 
-`FastAPI` `React` `Redux` `PostgreSQL` `WebSockets` `JWT`
+</div>
+
+All-in-one team collaboration workspace — one platform to rule them all.
+
+- 💬 **Real-Time Chat:** WebSocket channels, DMs, sub-second latency
+- 📋 **Workspace Tools:** Kanban task boards, shared collaborative whiteboard
+- 📹 **Coming Soon:** WebRTC video/voice calls + email sync integration
+- 🔑 **Auth:** JWT-based secure session management
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,python,react,redux,postgres&theme=dark" height="32"/>
+</div>
+
+<div align="center"><sub><i>🔒 Private repo — Chat &amp; tasks live</i></sub></div>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Activity & Metrics
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header" width="100%"/>
+
+### 📊 GitHub Activity &amp; Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats-two-lovat-38.vercel.app/api?username=Nikhil7353&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Nikhil's GitHub stats" height="175"/>
-<img src="https://github-readme-stats-two-lovat-38.vercel.app/api/top-langs/?username=Nikhil7353&layout=compact&theme=radical&hide_border=true&card_width=320" alt="Top languages" height="175"/>
+<img src="https://github-readme-stats-two-lovat-38.vercel.app/api?username=Nikhil7353&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&card_width=420" height="180" alt="Nikhil's GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-two-lovat-38.vercel.app/api/top-langs/?username=Nikhil7353&layout=compact&theme=radical&hide_border=true&card_width=340&langs_count=8" height="180" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Nikhil7353&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Nikhil7353&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="600"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil7353&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil7353&theme=react-dark&hide_border=true&area=true&area_color=7c3aed" alt="Contribution Graph" width="100%"/>
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════ SNAKE ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header" width="100%"/>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nikhil7353/Nikhil7353/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil7353/Nikhil7353/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil7353/Nikhil7353/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Nikhil7353/Nikhil7353/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </div>
 
----
+<br/>
 
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=d0c8ff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
 </div>
