@@ -37,7 +37,7 @@
 
 ### ⚡ About Me
 
-Software Developer with **1+ years** of experience engineering a live, multi-tenant fintech SaaS platform — handling real-time trade signals, automated GST billing, and **500+ users in production** — end to end, from API design to CI/CD deployment.
+Software Developer with **1.5 years** of experience engineering a live, multi-tenant fintech SaaS platform — handling real-time trade signals, automated GST billing, and **500+ users in production** — end to end, from API design to CI/CD deployment.
 
 <table>
   <tr>
@@ -147,7 +147,7 @@ Connects retail investors with **SEBI-registered** advisory firms — built end-
   <img src="https://skillicons.dev/icons?i=python,django,react,postgres,redis,docker&theme=dark" height="32"/>
 </div>
 
-<div align="center"><sub><i>🔒 Private repo — RSL Solutions PVT Ltd</i></sub></div>
+<div align="center"><sub><i>🔒 Private repo — RSL Solution PVT Ltd</i></sub></div>
 
 </td>
 <td width="50%" valign="top">
